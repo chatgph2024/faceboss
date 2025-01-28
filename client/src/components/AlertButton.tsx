@@ -34,7 +34,7 @@ const AlertButton = forwardRef<HTMLButtonElement, ButtonProps>(
 				<AlertDialogContent>
 					<AlertDialogHeader>
 						<AlertDialogTitle>https://next-book-15.vercel.app says</AlertDialogTitle>
-						<AlertDialogDescription>Hello from next book!</AlertDialogDescription>
+						<AlertDialogDescription>Hello from faceboss!</AlertDialogDescription>
 					</AlertDialogHeader>
 					<AlertDialogFooter>
 						<AlertDialogAction className="px-7">OK</AlertDialogAction>

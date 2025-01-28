@@ -21,8 +21,8 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
 	title: {
-		template: '%s | Next Book',
-		default: 'Next Book'
+		template: '%s | faceboss',
+		default: 'faceboss'
 	},
 	description: 'A full-stack social media web app built on NextJS 15 for the Next Fans'
 }

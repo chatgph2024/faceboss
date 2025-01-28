@@ -7,7 +7,7 @@ const Navbar = () => {
 		<header className="sticky top-0 z-10 bg-card shadow-xl">
 			<nav className="container mx-auto flex flex-wrap items-center justify-between gap-5 px-5 py-3">
 				<Link href="/" className="text-2xl font-bold text-primary">
-					Next Book
+					faceboss
 				</Link>
 				<div className="flex flex-row gap-3 sm:ms-auto">
 					<SearchBar />

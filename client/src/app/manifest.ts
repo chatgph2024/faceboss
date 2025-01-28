@@ -2,8 +2,8 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
 	return {
-		name: 'Next Book | Social Media',
-		short_name: 'Next Book',
+		name: 'faceboss | Social Media',
+		short_name: 'faceboss',
 		description: 'A full-stack social media web app built on NextJS 15 for the Next Fans',
 		start_url: '/',
 		display: 'standalone',
